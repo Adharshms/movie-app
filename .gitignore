@@ -9,6 +9,7 @@
 /coverage
 
 # production
+temp_auto_push.bat
 /build
 
 # misc
